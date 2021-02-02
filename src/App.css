@@ -1,0 +1,58 @@
+.container{
+  position: absolute;
+  width: 300px;
+  height: 500px;
+  border: 1px solid black;
+}
+
+.filtri {
+  margin: 20px;
+}
+
+.barraRicerca input {
+  box-sizing: border-box;
+  min-width: 100%;
+  max-width: 100%;
+}
+
+.check {
+  margin: 2px;
+}
+
+.containerMain {
+  margin: 20px;
+}
+
+.nomeTitolo{
+  float: left;
+  font-weight: bold;
+  clear: both;
+}
+
+.prezzoTitolo {
+  float: right;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.nome {
+  float: left;
+  clear: both;
+}
+
+.nomeNonDisponibile {
+  float: left;
+  clear: both;
+  color: red;
+}
+
+.prezzo {
+  float: right;
+  margin-right: 20px;
+}
+
+.categoria{
+  clear: both;
+  font-weight: bold;
+  text-decoration: underline;
+}
